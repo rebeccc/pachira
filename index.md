@@ -3,15 +3,15 @@
 ### Commercial Screencast
 
 ### Writing Assignments & Final Report  
-[Writing Assignment 1 - Becky](res/pdf/WA1/becky_wa1.pdf)  
-[Writing Assignment 1 - Tuhina](res/pdf/WA1/tuhina_wa1.pdf)  
-[Writing Assignment 1 - Lily](res/pdf/WA1/lily_wa1.pdf)  
+[Writing Assignment 1 - Becky](/res/pdfs/WA1/becky_wa1.pdf)  
+[Writing Assignment 1 - Tuhina](/res/pdfs/WA1/tuhina_wa1.pdf)  
+[Writing Assignment 1 - Lily](/res/pdfs/WA1/lily_wa1.pdf)  
 
-[Writing Assignment 2](res/pdf/WA2/writing-2.pdf)  
+[Writing Assignment 2](/res/pdfs/WA2/writing-2.pdf)  
 
-[Writing Assignment 3](res/pdf/WA3/writing-3.pdf)  
+[Writing Assignment 3](/res/pdfs/WA3/writing-3.pdf)  
 
-[Final Report](res/pdf/final_report.pdf)  
+[Final Report](/res/pdfs/final_report.pdf)  
 
 ### About us
 ![tuhina](res/img/tuhina.png)  
