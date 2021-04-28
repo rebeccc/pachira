@@ -21,5 +21,5 @@ Tuhina is excited to be graduating with a BS in Computer Science and a minor in 
 Lily is a senior majoring in computer science at the George Washington University. Her passions include making charcuterie boards and going on long walks. She hopes to be able to successfully heely across the national mall one day!  
 
 ![becky](res/img/becky.jpg)  
-Becky is incredibly excited to be ending her academic career. Instead of paying an institution $280,000 to code, she is going to Seattle after graduation to be paid to code. She hopes that in her future she can foster elderly cats, take bartending classes, and go to lots of concerts. 
+Becky is incredibly excited to be ending her academic career. She is going to Seattle after graduation to code some more. She hopes that in her future she can foster elderly cats, take bartending classes, and go to lots of concerts. 
 
